@@ -14,10 +14,10 @@ You can modify the `PORT` to `openai_api_base` in `llms.py`
 ```
 cd src/
 python main.py \
-    -m deepseek \
-    -pc prompts/deepseek_demographic_client_prompt.txt \
-    -pt prompts/deepseek_therapist.txt \
-    -q patients/marburg_patient_0.md
+    -m gemma \
+    -pc prompts/mdd/mdd_gemma_client.txt.txt \
+    -pt prompts/gemma_therapist.txt \
+    -q path_2_client_data.txt
 ```
 
 ### Arguments:
@@ -30,15 +30,15 @@ python main.py \
     Model for therapist and client agent ('qwen', 'llama', etc.)
 
     -pc, --prompt_client, type=str
-    Prompt use for client agent (see prompts/*client*.txt )
+    Prompt use for client agent (see prompts/ )
 
     -pt, --prompt_therapist, type=str
-    Prompt use for therapist agent (see prompts/*therapist*.txt folder)
+    Prompt use for therapist agent (see prompts/)
 
     -ir, --iterative_rewrites, type=int, default=0
-    Number of rewrite we want therapist/client to rewrite according to judge comment
+    Number of rewrite we want therapist/client to rewrite
 
     -q, --questionnaire, type=str
-    Patient questionnaire (see patients/ folder)
+    Patient questionnaire/data as text
 
 ```
