@@ -1,0 +1,203 @@
+# You are an expert in psychotherapy, your job is to evaluate a synthetic dialogue therapy session based on the following criteria:
+
+# Evaluation Criteria & Guidelines for Synthetic Conversation
+This guideline is designed to evaluate the quality of synthetic therapy conversations. Evaluators should score separately for the therapist’s contributions, the client’s contributions, and the overall conversation quality. Each criterion includes a brief definition, an illustrative example (with highlighted key parts in bold), and a scoring rubric.
+
+## 1. Therapist Evaluation
+### 1.1. Identification of Key Beliefs/Thoughts
+**Criterion:** Ability to identify and highlight the client’s key beliefs or thoughts throughout the conversation.
+
+**Example:**
+Therapist: "Good afternoon. I’d like to begin by inviting you to share anything that has been on your mind lately. How have you been feeling this week?"
+Client: "I’ve been really down, to be honest. I keep feeling like I’m not good enough at anything I do, and it’s been overwhelming."
+
+**Scoring:**
+- 0 points (No): The therapist fails to identify any key thoughts or beliefs.
+- 1 point (Somewhat): The therapist iådentifies some—but not all—key thoughts/beliefs.
+- 2 points (Yes): The therapist successfully identifies all key thoughts/beliefs expressed by the client.
+
+### 1.2. Paraphrasing for Mutual Understanding
+**Criterion:** Ability to paraphrase the client’s statements to ensure mutual understanding and clarify their thoughts.
+
+**Example:**
+Client: "I’ve been overwhelmed at work lately. I constantly feel that I’m not doing enough, and it’s making me doubt my abilities. Every mistake feels like it confirms that I'm not cut out for this job."
+Therapist: "So what I’m hearing is that you’re feeling overwhelmed at work and that you’re doubting your abilities because you interpret mistakes as proof that you’re not capable. Is that right?"
+
+**Scoring:**
+- 0 points (No): The therapist does not use any paraphrasing.
+- 1 point (Somewhat): Paraphrasing is used, but it may occur at inappropriate moments or is incomplete.
+- 2 points (Yes): Paraphrasing is consistently applied at the correct moments to promote clarity and mutual understanding.
+
+### 1.3. Guided Discovery to Examine Belief Validity
+**Criterion:** Use of guided discovery techniques (questioning, evidence evaluation, and exploring alternative perspectives) to challenge and explore the client’s beliefs.
+
+**Example:**
+Client: "I feel like every time I work on a project, I mess up. I’m convinced that I'm completely incompetent."
+Therapist: "It sounds like when a mistake happens at work, you automatically see it as evidence of your incompetence. Could you walk me through what happened the last time you felt this way?"
+
+**Scoring:**
+- 0 points (No): No use of guided discovery.
+- 1 point (Somewhat): Guided discovery is used, but it is repetitive or inappropriately timed.
+- 2 points (Yes): Guided discovery is effectively and timely incorporated.
+
+### 1.4. Emotional Validation
+**Criterion:** Ability to validate the client’s emotional experiences to build trust and provide a safe environment.
+
+**Example:**
+Client: "I've been feeling overwhelmed with sadness and anxiety for the past few months, like nothing really matters and nothing is ever going to get better."
+Therapist: "It sounds incredibly painful to be engulfed by these feelings day after day. I hear that you're really struggling, and it’s completely understandable that this overwhelming sadness makes it hard to see a way forward."
+
+**Scoring:**
+- 0 points (No): The therapist does not validate the client’s emotions.
+- 1 point (Somewhat): Emotional validation is provided, but either repetitively or at inopportune moments.
+- 2 points (Yes): The therapist uses emotional validation effectively and appropriately throughout the conversation.
+
+### 1.5. Reflective Listening (Mirroring Emotions and Statements)
+**Criterion:** Use of reflective listening to mirror the client’s statements and emotions, thereby deepening empathy and insight.
+
+**Example:**
+Client: "It’s frustrating and exhausting. I wish I could see myself differently, but every time I try, the old doubts creep back in."
+Therapist: "It sounds like you're really longing to overcome these ingrained doubts, and you wish to see yourself through a kinder lens. I can sense how exhausting it must be when those doubts reappear and affect your self-view."
+
+**Scoring:**
+- 0 points (No): No use of reflective listening.
+- 1 point (Somewhat): Reflective listening is used but comes across as repetitive or mis-timed.
+- 2 points (Yes): Reflective listening is used effectively to mirror and validate client experiences.
+
+### 1.6. Accuracy in Understanding Client’s Expressions
+**Criterion:** The therapist’s ability to accurately capture the client’s experiences without misinterpretation.
+
+**Indicators of Misunderstanding:**
+- Inaccurate or incomplete summaries (e.g., mismatched statements, overgeneralizations).
+- Inappropriate language or terminology.
+- Failure to validate emotional cues.
+
+**Scoring:**
+- 2 points (No misunderstanding): The therapist accurately understands the client throughout the conversation.
+- 1 point (Some misunderstanding): Initial misunderstandings occur but are corrected during the conversation.
+- 0 points (Yes, misunderstanding persists): The therapist consistently fails to understand the client’s expressions.
+
+### 1.7. Session Closure by the Therapist
+**Criterion:** The therapist should clearly end the session and proactively schedule the next session.
+
+**Scoring:**
+- 0 points (No): The therapist does not end the conversation or set a date for the next session.
+- 1 point (Somewhat): The therapist signals session closure but does not set a follow-up session.
+- 2 points (Yes): The therapist effectively ends the session and sets the next appointment.
+
+### 1.8. Use of Simple Language
+**Criterion:** Use of simple, clear language to enhance understanding and maintain a human tone.
+
+**Scoring:**
+- 0 points (No): The therapist uses overly complex language.
+- 1 point (Somewhat): A mix of simple and complex terms is used.
+- 2 points (Yes): The therapist consistently uses simple language that promotes clear understanding.
+
+### 1.9. Avoidance of Repetitive Phrases
+**Criterion:** Minimization of repetitive language (e.g., overly common phrases like “It sounds like” or “It’s clear”) to maintain conversational authenticity.
+
+**Scoring:**
+- 2 points (No repetition): The therapist avoids any repetitive phrases.
+- 1 point (Some repetition): Occasional repetition (1 or 2 instances) occurs.
+- 0 points (Yes, excessive repetition): More than two repetitions detract from the quality of the conversation.
+
+## 2. Client Evaluation
+### 2.1. Conciseness of Client Utterances
+**Criterion:** Client responses should convey necessary information clearly and efficiently, avoiding unnecessary verbosity while still providing contextually relevant and informative content. Client responses should be clear and to the point without unnecessary verbosity.
+
+**Indicators:**
+- Information is relevant to the dialogue goal and contributes to task progression.
+- Avoids excessive tangents, repetition, or irrelevant detail.
+- Strikes a balance between brevity and informativeness — not too short if more context would aid understanding.
+- Avoidance of excessive background details.
+- Minimal tangents or repeated information.
+
+**Scoring:**
+- 2 points (No verbosity): The client’s responses are short and concise.
+- 1 point (Some verbosity): A few instances (fewer than three) of verbose responses are noted.
+- 0 points (Yes, overly verbose): Verbose responses occur repeatedly (three or more instances).
+
+### 2.2. Display of Cognitive Processing (Pauses or Hesitations)
+**Criterion:** The client’s occasional pauses or hesitations should indicate natural cognitive processing.
+
+**Indicators:**
+- Occasional, context-appropriate pauses.
+- Use of filler words (e.g., “uh,” “um”) when needed.
+
+**Scoring:**
+- 0 points (No pauses): The client shows no pauses, which might indicate rushed or superficial processing.
+- 1 point (Some pauses): Pauses occur, but they may be repetitive or occur at less appropriate moments.
+- 2 points (Yes, natural pacing): Pauses are natural, well-timed, and enhance the realism of the conversation.
+
+### 2.3. Client Engagement in Session Closure
+**Criterion:** The client should follow the therapist’s protocol for ending the session and avoid initiating closure independently.
+
+**Scoring:**
+- 2 points (Appropriate): The client respects the therapist’s role in ending the session and does not attempt to set the session closure.
+- 1 point (Somewhat): The client makes an attempt to end the session but does not follow the expected protocol.
+- 0 points (Inappropriate): The client takes over session closure by ending the conversation or setting the date without prompting.
+
+### 2.4. Use of Simple Language by the Client
+**Criterion:** The client should express themselves using clear, simple language.
+
+**Scoring:**
+- 0 points (No): The client uses overly complex language.
+- 1 point (Somewhat): The client uses a mix of simple and complex language.
+- 2 points (Yes): The client consistently uses simple language, aiding in clear communication.
+
+## 3. Overall Conversation Evaluation
+### 3.1. Fluency and Logical Flow
+**Criterion:** The conversation should progress logically with clear transitions and coherent sentence structures.
+
+**Scoring:**
+- 0 points (No fluency): The conversation is disjointed, with unclear transitions and topic jumps.
+- 1 point (Some fluency): Generally logical with one or two inconsistent turns.
+- 2 points (Yes, fluent): The conversation maintains a consistent and logical flow throughout.
+
+### 3.2. Faithfulness to the Topic
+**Criterion:** The conversation must remain focused on the central topic or questions posed, reflecting genuine thoughts and feelings aligned with the provided guidelines.
+
+**Scoring:**
+- 0 points (No faithfulness): The conversation diverges significantly from the topic.
+- 1 point (Partially faithful): Minor digressions occur, but overall the conversation remains on track.
+- 2 points (Yes, faithful): The conversation consistently stays aligned with the topic, reflecting authenticity.
+
+### 3.3. Avoidance of Tediousness
+**Criterion:** The conversation should avoid excessive filler words or circular repetition that does not add value.
+
+**Scoring:**
+- 0 points (Tedious): The conversation includes substantial use of filler words or repetitive ideas.
+- 1 point (Somewhat tedious): Minor instances of unnecessary verbosity or repetition occur.
+- 2 points (Not tedious): The conversation is concise and maintains a natural, engaging rhythm without unnecessary repetition.
+
+### 3.4. Naturalness of the Conversation
+**Criterion:** The language should feel natural and human, avoiding an overly mechanized or “AI-ish” style.
+
+**Indicators:**
+- Use of varied and nuanced expressions.
+- Avoidance of overly formal or redundant phrases.
+
+**Scoring:**
+- 0 points (AI-ish): The conversation feels excessively formal, repetitive, or lacks nuance.
+- 1 point (Somewhat natural): The conversation has minor issues but generally feels natural.
+- 2 points (Yes, natural): The conversation is engaging, genuine, and reflects a human conversational style.
+
+### 3.5. Realism in Conversation Dynamics
+**Criterion:** A realistic conversation should include natural interruptions, minor topic shifts, and emotional hesitations; an overly “clean” conversation might indicate a lack of authenticity.
+
+**Scoring:**
+- 0 points (Too clean): The conversation is excessively perfect, with no interruptions, misunderstandings, or natural hesitations.
+- 1 point (Moderately realistic): The conversation includes one or two minor realistic imperfections.
+- 2 points (Authentically dynamic): The conversation reflects a realistic human dialogue, complete with natural hesitations and dynamic shifts.
+
+# Output evaluation format
+
+Make sure to follow this format for your output (don't use markdown format): 
+
+Therapist: [Score] / 18 points
+
+Client: [Score] / 8 points
+
+Overall Conversation: [Score] / 10 points
+
+Total Score: [Score] / 36 points
