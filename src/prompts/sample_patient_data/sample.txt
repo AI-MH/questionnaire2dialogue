@@ -1,0 +1,205 @@
+# Patient information
+Test subject: 899
+
+Year of birth: 1999
+
+Gender: female
+
+Age of Mother at birth : 21.0
+
+Age of Father at birth: 24.0
+
+Mental Disorder Diagnosis Coding 1 defined in the Diagnostic and Statistical Manual of Mental Disorders IV (DSM-IV): 296.32 - Major depressive disorder, Recurrent episode, Moderate
+
+Free text field from structured clinical interview (SKID) according to Mental Disorder Diagnosis Coding 1: Recurrent depressive disorder, currently moderate episode
+
+Secondary comorbid diagnosis to Mental Disorder Diagnosis Coding 1 based on DSM-IV criteria, whether current or only in the patient's lifetime: acute / partially remitted
+
+Group: MDD - Major Depressive Disorder
+
+The patient currently meets criteria for an affective disorder (e.g., depression, bipolar disorder): yes
+
+The patient has ever met criteria for an affective disorder in the past: yes
+
+Is the patient currently suffering from major depressive disorder?: yes
+
+Is the patient suffering from major depressive disorder in his lifetime?: yes
+
+At least 1 safely treated 1st degree relative with mental illness - a family member diagnosed with such disorder: risk present
+
+At least 1 safely treated 1st degree relative with affective/schizoaffective disorder - a family member diagnosed with such disorder: risk present
+
+At least 1 safely treated 1st degree relative with Major depressive disorder (MDD) - a family member diagnosed with such disorder: risk present
+
+Recurrent episode: recurrent
+
+Degree of remission: acute
+
+Number of depressive episodes: 13.0
+
+Age of onset: 18.0
+
+Duration of the current episode (in months): 3.0
+
+Number of (part-)inpatient psychiatric stays: 3.0
+
+Total duration of (part-)inpatient psychiatric treatment (in weeks): 6.0
+
+Time since first psychiatric treatment (in months): 2.0
+
+Current living situation: living alone
+
+Earning a living is currently predominantly: Own employment
+
+Current work situation: Employed, full-time
+
+Net income (monthly) of the household : 1200.0 Euro 
+
+Current occupation: Simple employee/civil servant
+
+Current social contacts: About once a week
+
+Do/did first-degree relatives suffer from a mental illness?: Yes
+
+Which relative?: Mother
+
+What illness?: Depression
+
+Has the relative ever received medical treatment for this?: Yes
+
+Father's year of birth: 1953.0
+
+Father's year of birth: 1954.0
+
+Do you have children: No
+
+Do you have siblings?: Yes
+
+Number of brothers, parents shared: 2.0
+
+Age of brothers, parents shared: 22
+
+Does/did the patient use prescription antidepressant medication: yes
+
+
+## Questionnaire BDI
+Description: Beck Depression Inventory
+
+Question BDI1: 
+Answer: I am not sad.
+
+Question BDI2: 
+Answer: I am despondent about the future.
+
+Question BDI3: 
+Answer: When I look back on my life, I just see a lot of failures. 
+
+Question BDI4: 
+Answer: I can no longer enjoy things as much as I used to.
+
+Question BDI5: 
+Answer: I often feel guilty.
+
+Question BDI6: 
+Answer: I have the feeling that I might be punished.
+
+Question BDI7: 
+Answer: I am not disappointed in myself.
+
+Question BDI8: 
+Answer: I criticize myself for my mistakes and weaknesses.
+
+Question BDI9: 
+Answer: I don't think about doing anything to myself.
+
+Question BDI10: 
+Answer: I used to be able to cry, but now I can't, even though I want to.
+
+Question BDI11: 
+Answer: I am not more irritable than usual.
+
+Question BDI12: 
+Answer: I have not lost interest in people.
+
+Question BDI13: 
+Answer: I am as decisive as ever.
+
+Question BDI14: 
+Answer: I think I am ugly.
+
+Question BDI15: 
+Answer: I have to give myself a push before I start an activity.
+
+Question BDI16: 
+Answer: I sleep as well as usual.
+
+Question BDI17: 
+Answer: I don't get tired more than usual.
+
+Question BDI18: 
+Answer: My appetite is not worse than usual.
+
+Question BDI19: 
+Answer: I have hardly lost any weight recently.
+
+Question BDI_DIAET: I deliberately eat less to lose weight
+Answer: No
+
+Question BDI20: 
+Answer: I am not more worried about my health than usual.
+
+Question BDI21: 
+Answer: I haven't noticed any change in my interest in sex recently.
+
+Depression's severity according to Beck Depression Inventory: 
+Total Score: 14 - BDI questionnaire indicates that the patient has mild depression
+
+
+## Questionnaire HAMA
+Description: Hamilton Anxiety Rating Scale consists of 14 items, each defined by a series of symptoms, and measures both psychic anxiety (mental agitation and psychological distress) and somatic anxiety (physical complaints related to anxiety
+
+Question HAMA1: Anxious mood - worry, expectation of the worst, fearful expectations, irritability
+Answer: low
+
+Question HAMA2: Tension - feeling of tension, exhaustion, nervousness, tendency to cry, trembling, feeling of unease, restlessness, inability to relax
+Answer: not present
+
+Question HAMA3: Fear - of darkness, of strangers, of being left alone, of animals, of traffic, of crowds
+Answer: not present
+
+Question HAMA4: Insomnia - difficulty falling asleep, difficulty staying asleep, not feeling rested and fatigue when waking up, dreams, nightmares, pavor nocturnus
+Answer: low
+
+Question HAMA5: Intellectual impairment - difficulty concentrating, memory impairment
+Answer: low
+
+Question HAMA6: Depressed mood - loss of interest, lack of enjoyment in hobbies, dejection,
+Answer: low
+
+Question HAMA7: General somatic symptoms (muscular) - muscle pain, muscle twitching, muscle stiffness, myoclonic twitching, teeth grinding, unsteady voice, increased muscle tone
+Answer: not present
+
+Question HAMA8: General somatic symptoms (sensory) - tinnitus (ringing in the ears), blurred vision, hot flushes and chills, feeling of weakness, tingling
+Answer: not present
+
+Question HAMA9: Cardiovascular symptoms - tachycardia, palpitations, chest pain, throbbing in the vessels, feeling of fainting, cessation of heartbeat
+Answer: not present
+
+Question HAMA10: Respiratory symptoms - chest pressure or tightness, suffocation, sighing, dyspnea
+Answer: not present
+
+Question HAMA11: Gastrointestinal symptoms - difficulty swallowing, flatulence, abdominal pain, pain before or after eating, heartburn, stomach burning, feeling of fullness, acid reflux, nausea, vomiting, intestinal rumbling, diarrhea, weight loss, constipation
+Answer: not present
+
+Question HAMA12: Urogenital symptoms - frequent urination, urinary urgency, amenorrhea, menorrhagia, development of frigidity, premature ejaculation, loss of libido, impotence
+Answer: not present
+
+Question HAMA13: Neurovegetative symptoms - dry mouth, blushing, pallor, tendency to sweat, dizziness, tension headache, goose bumps
+Answer: not present
+
+Question HAMA14: Behavior during the interview - fidgeting, restlessness or pacing, hand tremors, eyebrow furrows, drawn face, sighing or rapid breathing, pale face, swallowing air, eyelid twitching, tics, sweating
+Answer: not present
+
+Axiety's severity according to Hamilton Anxiety Rating Scale: 
+Total Score: 4 - HAMA questionnaire indicates that the patient has mild anxiety
+
