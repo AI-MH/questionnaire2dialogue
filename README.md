@@ -28,16 +28,16 @@ The pipeline uses two cooperating agents: a **therapist LLM** and a **client LLM
 
 ## Repository structure
 
-> `[adjust this tree to match your actual layout]`
-
 ```
 questionnaire2dialogue/
 ├── src/
-│   ├── main.py            # entry point for dialogue generation
-│   ├── llms.py            # model / endpoint configuration (set openai_api_base here)
-│   └── prompts/           # therapist and client prompt templates
-│       ├── mdd/           # disorder-specific client prompts
-│       └── ...
+│   ├── main.py                                    # entry point for dialogue generation
+│   ├── llms.py                                    # model / endpoint configuration (set openai_api_base here)
+│   └── prompts/                                   # therapist and client prompt templates
+│       ├── mdd/                                   # disorder-specific client prompts
+│       ├── control/                               # disorder-specific client prompts
+│       ├── sample_patient_data/sample.txt         # artifical patient data for testing
+│       └── ...                                    # therapist prompts
 ├── README.md
 ├── ETHICS.md
 ├── LICENSE                
