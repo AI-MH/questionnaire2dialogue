@@ -1,0 +1,13 @@
+# Python 3.10–3.13 recommended
+
+# Core: open-weight model serving
+# vLLM hosts the therapist and client models behind an OpenAI-compatible API.
+# It also installs a matching torch (2.11.x / CUDA 13), transformers, and numpy,
+vllm==0.21.0
+datasets==4.8.4
+langchain==0.3.30
+langchain-community==0.3.31
+loguru==0.7.3
+trl==0.26.0
+datasets==4.8.4
+numpy
